@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 I’m currently working on:<br>A Transport Management System (Java + Spring Boot)<br><br>🤝 I’m looking to collaborate on:<br>Java, Spring Boot, and backend development projects<br><br>🙋 I’m looking for help with:<br>Backend best practices, REST API design, and deployment<br><br>🌱 I’m currently learning:<br>Java, Spring Boot, REST APIs, SQL, and backend architecture<br><br>💬 Ask me about:<br>Java basics, API development, or anything backend-related<br><br>⚡ Fun fact:<br>I like building small useful tools and improving them step by step!
+🛠 I’m currently working on:<br>A Transport Management System (Java + Spring Boot)<br><br>🤝 I’m looking to collaborate on:<br>Java, Spring Boot, and backend development projects<br><br>🙋 I’m looking for help with:<br>Backend best practices, REST API design, and deployment<br><br>🌱 I’m currently learning:<br>Java, Spring Boot, REST APIs, SQL, and backend architecture<br><br>Ask me about:<br>Java basics, API development, or anything backend-related<br><br>⚡ Fun fact:<br>I like building small useful tools and improving them step by step!
 
 
 ## 🌐 Socials:
